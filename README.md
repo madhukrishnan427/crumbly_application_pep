@@ -1,17 +1,29 @@
-# crumbly_application_pep
+Crumbly – Flutter Application
 
-A new Flutter project.
+Project Overview
+Crumbly is a Flutter application developed to connect customers with home bakers and make bakery product ordering more convenient.
 
-## Getting Started
+1. Homebaker Module
 
-This project is a starting point for a Flutter application.
+I worked on the Homebaker module, which includes:
 
-A few resources to get you started if this is your first Flutter project:
+- Homebaker onboarding
+- Homebaker sign-in
+- Homebaker dashboard
+- Menu management
+- Category management
+- Date allocation
+- Sales page
+- Homebaker settings
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+2. Customer Module
+The Customer module is developed by another member of our team.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technologies Used
+- Flutter
+- Dart
+- Android Studio
+- Git and GitHub
+
+## Project Repository
+[Crumbly – Flutter Application](https://github.com/madhukrishnan427/crumbly_application_pep)
